@@ -3,12 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-theme: minima
 ---
 
-# Dies ist das Blog von Philip Stade:
-## Blog
+Hier geht es los!
+## Überschrift und Links
 
+HTML
 <ul>
   {% for post in site.posts %}
     <li>
