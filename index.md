@@ -6,10 +6,10 @@ layout: home
 theme: minima
 ---
 
-Dies ist das Blog von Philip Stade:
+<body bgcolor=ffff00>
+<hl>Dies ist das Blog von Philip Stade:</hl>
 ## Blog
 
-<body bgcolor=ffff00>
 <ul>
   {% for post in site.posts %}
     <li>
