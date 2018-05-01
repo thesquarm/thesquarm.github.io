@@ -24,6 +24,7 @@ twitter_username: freiekultur
 github_username:
 
 # Build settings
+port:4000
 markdown: kramdown
 remote_theme: minima
 plugins:
