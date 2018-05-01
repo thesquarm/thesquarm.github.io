@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title:  "7 Säulen"
 date:   2018-05-01 16:57:01 -0600
@@ -9,8 +6,8 @@ categories: blog
 ---
 
 # zu den 7 Säulen des digitalen Lernens
-![](http://flowcampus.com/wp-content/uploads/sites/8/2017/09/7saeulen.png) 
-Quelle: [Flowcampus](http://flowcampus.com/wp-content/uploads/sites/8/2017/09/7saeulen.png) 
+![](http://flowcampus.com/wp-content/uploads/sites/8/2017/09/7saeulen.png)
+Quelle: [Flowcampus](http://flowcampus.com/wp-content/uploads/sites/8/2017/09/7saeulen.png)
 
 **Zeit**: ‚Überall‘ ist für mich Raum nicht Zeit
 
@@ -18,5 +15,4 @@ Quelle: [Flowcampus](http://flowcampus.com/wp-content/uploads/sites/8/2017/09/7s
 
 **Technologie**: liefert nicht nur Inhalte und ist aus mir nicht ersichtlichen Gründen vom nächsten Punkt, den **digitalisierten Inhalten**, getrennt
 
-@FreieKultur 
-
+@FreieKultur
