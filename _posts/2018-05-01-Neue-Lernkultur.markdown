@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Neue Lernkultur"
-date:   2018-05-01
+date:   2018-05-01 16:16:01 -0600
 categories: blog
 ---
 
