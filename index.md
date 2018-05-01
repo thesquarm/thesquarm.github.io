@@ -16,3 +16,4 @@ Dies ist das Blog von Philip Stade:
     </li>
   {% endfor %}
 </ul>
+<body bgcolor=ffff00>
