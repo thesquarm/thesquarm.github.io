@@ -5,7 +5,6 @@
 layout: home
 ---
 
-# Lernen im digitalen Wandel
 ## Blog von Philip Stade
 
 <ul>
