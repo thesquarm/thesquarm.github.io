@@ -9,6 +9,7 @@ theme: minima
 Dies ist das Blog von Philip Stade:
 ## Blog
 
+<body bgcolor=ffff00>
 <ul>
   {% for post in site.posts %}
     <li>
@@ -16,4 +17,4 @@ Dies ist das Blog von Philip Stade:
     </li>
   {% endfor %}
 </ul>
-<body bgcolor=ffff00>
+</body>
