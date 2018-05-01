@@ -5,10 +5,9 @@
 layout: home
 ---
 
-Hier geht es los!
-## Überschrift und Links
+Dies ist das Blog von Philip Stade:
+## Blog
 
-HTML
 <ul>
   {% for post in site.posts %}
     <li>
