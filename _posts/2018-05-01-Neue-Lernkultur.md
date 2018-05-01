@@ -1,6 +1,13 @@
 ---
 published: false
 ---
+---
+layout: post
+title:  "Neue Lernkultur"
+date:   2018-05-01
+categories: blog
+---
+
 # Eine neue Lernkultur: „Eine Schule für alle“
 Peter Haas berichtete beim Bildungsnetzwerk-Treffen im März 2018 vom Freiburger Bündnis „Eine Schule für alle“ http://www.fr-eineschule.de/, in dem er aktiv ist. Dort hat er das Konzept für die Gemeinschaftsschulen (GMS) in Baden-Württemberg mitentwickelt. In vielen GMS habe sich seit ihrer Gründung viel verändert und viel werde weiterhin ausprobiert. Peter sieht aber im Ansatz „Eine Schule für alle“ die bildungspolitische Zukunft, weil das mit einer neuen Lernkultur einhergehe. Die Freiburger Paul-Hindemith-Modellschule, die u.a. auf Noten verzichtete, hatte sehr großen Erfolg in Richtung einer solchen Verschiebung. Ihr wurde aber unverständlicherweise im Jahr 2017 wieder politisch die Grundlage entzogen, was viel Kritik auslöste. http://www.badische-zeitung.de/freiburg/aus-fuer-schule-ohne-noten-stoesst-auf-viel-kritik--145068538.html
 Nicht erst seitdem brennt Peter Haas für sein Thema - das merkt man in jedem seiner Sätze. Für ihn ist folgende Frage zentral: Wie kann man den Wechsel hin zu einer neuen Lernkultur vollziehen?
