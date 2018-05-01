@@ -7,3 +7,12 @@ layout: home
 
 Hier geht es los!
 ## Überschrift und Links
+
+HTML
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
