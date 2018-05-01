@@ -5,10 +5,9 @@
 layout: home
 ---
 
-Hier geht es los!
-## Überschrift und Links
+# Lernen im digitalen Wandel
+## Blog von Philip Stade
 
-HTML
 <ul>
   {% for post in site.posts %}
     <li>
