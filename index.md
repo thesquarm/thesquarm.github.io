@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+themes: minima
 ---
 
 Dies ist das Blog von Philip Stade:
