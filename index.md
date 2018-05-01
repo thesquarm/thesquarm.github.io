@@ -6,11 +6,7 @@ layout: home
 theme: minima
 ---
 
-body {
-	  background-color: #FFCC66;
-	}
-
-<hl>Dies ist das Blog von Philip Stade:</hl>
+# Dies ist das Blog von Philip Stade:
 ## Blog
 
 <ul>
@@ -20,5 +16,3 @@ body {
     </li>
   {% endfor %}
 </ul>
-
-</body>
